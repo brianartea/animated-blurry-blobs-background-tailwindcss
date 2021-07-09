@@ -5,8 +5,8 @@ module.exports = {
     extend: {
       animation: {
         blob: "blob 7s infinite",
-        blobtwo: "blobtwo 7s infinite",
-        blobthree: "blobthree 7s infinite",
+        blobtwo: "blobtwo 20s infinite",
+        blobthree: "blobthree 3s infinite",
       },
       keyframes: {
         blob: {
