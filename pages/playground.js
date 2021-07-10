@@ -11,9 +11,9 @@ function playground() {
       </Head>
       <div className="bg-gray-100 min-h-screen flex items-center justify-center px-16">
         <div className="relative w-full max-w-lg">
-          <div className="absolute top-0 -left-4 w-72 h-72 bg-purple-300 rounded-full mix-blend-multiply filter blur-2xl opacity-1 animate-blobtwo"></div>
-          <div className="absolute top-0 -right-4 w-72 h-72 bg-yellow-300 rounded-full mix-blend-multiply filter blur-2xl opacity-1 animate-blobtwo animation-delay-2000"></div>
-          <div className="absolute -bottom-8 left-20  w-72 h-72 bg-pink-300 rounded-full mix-blend-multiply filter blur-2xl opacity-1 animate-blobtwo animation-delay-4000"></div>
+          <div className="absolute top-0 -left-4 w-72 h-72 bg-purple-300 rounded-full mix-blend-multiply filter blur-2xl opacity-1 animate-blobthree"></div>
+          <div className="absolute top-0 -right-4 w-72 h-72 bg-yellow-300 rounded-full mix-blend-multiply filter blur-2xl opacity-1 animate-blobthree animation-delay-2000"></div>
+          <div className="absolute -bottom-8 left-20  w-72 h-72 bg-pink-300 rounded-full mix-blend-multiply filter blur-2xl opacity-1 animate-blobthree animation-delay-4000"></div>
           <div className="m-8 relative space-y-4 opacity-0">
             <div className="p-5 bg-white rounded-lg flex items-center justify-between space-x-8">
               <div className="flex-1">
